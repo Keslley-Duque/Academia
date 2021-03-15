@@ -1,4 +1,4 @@
-Codigo em java da aula de logica de programação III do dia 08_03_2021, onde será criado um programa que fará um aplicativo de peso de alunos;
+Codigo em java da aula de logica de programação III do dia 08_03_2021, onde será criado um aplicativo de controle de peso para os alunos;
 
 Enunciado:
 
