@@ -6,7 +6,7 @@ Uma academia, preocupada com a saúde de seus alunos, que na maioria estão acim
 levantamento quanto ao Índice de Massa Corpórea (IMC). Para isso, o contratou para elaborar um aplicativo que
 permita para cada participante:
 • A entrada do nome, peso e a altura;
-• O cálculo do IMC (peso / quadrado da altura),
+• O cálculo do IMC (peso / quadrado da altura);
 • A exibição do nome e de uma mensagem sobre a situação do mesmo, tendo por base a seguinte tabela:
 
 |        IMC          |     Mensagem     |
